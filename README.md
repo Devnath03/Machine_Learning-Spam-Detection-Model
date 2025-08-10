@@ -73,6 +73,14 @@ This repository provides a complete, production-ready solution for detecting spa
 
 ## Actions Overview
 
+01. Landing Pages
+
+02. Uploading & Typing Methods
+
+03. Detection Methods
+
+04. Processing Methdologies
+
 ## Learning Outcomes
 
 By working through this project, you will:
