@@ -74,12 +74,38 @@ This repository provides a complete, production-ready solution for detecting spa
 ## Actions Overview
 
 01. Landing Pages
+2. 
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/3b686fc6-f1ee-4d9e-a85b-61c86d11f29f" />
+
+<img width="1912" height="822" alt="image" src="https://github.com/user-attachments/assets/7d1a5671-5539-45a9-8552-95607b3b6449" />
+
+<img width="1918" height="745" alt="image" src="https://github.com/user-attachments/assets/c1039851-18b5-4a7b-8593-ae8101b7b15c" />
 
 02. Uploading & Typing Methods
+   
+<img width="1903" height="806" alt="image" src="https://github.com/user-attachments/assets/92b73af6-b56e-4359-97d1-23745443b12f" />
+
+- Spam Alert
+  
+<img width="1890" height="918" alt="image" src="https://github.com/user-attachments/assets/e02267cd-0a72-439b-919e-452a4f87f175" />
+
+- No Spam Alert
+  
+<img width="1896" height="907" alt="image" src="https://github.com/user-attachments/assets/46bdb396-69cd-4e00-94de-90f9ecc81e96" />
+
+-- Document Uploading
+
+<img width="1900" height="906" alt="image" src="https://github.com/user-attachments/assets/8b0b134f-fc47-4cf4-8082-608024cddf5d" />
+
+-- Error Alerting
+
+<img width="1902" height="911" alt="image" src="https://github.com/user-attachments/assets/02e27581-92ed-4c8b-a17c-6aee8780d46c" />
 
 03. Detection Methods
+   
+<img width="1902" height="911" alt="image" src="https://github.com/user-attachments/assets/6740ad6e-b9c6-46d0-973b-b40054843269" />
 
-04. Processing Methdologies
+---- Simple Overview about the process of the model in via the simple UI Interface. -----
 
 ## Learning Outcomes
 
