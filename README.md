@@ -71,6 +71,8 @@ This repository provides a complete, production-ready solution for detecting spa
 - Scalable design for large datasets and real-world deployment
 - Support for multiple file formats in uploads
 
+## Actions Overview
+
 ## Learning Outcomes
 
 By working through this project, you will:
